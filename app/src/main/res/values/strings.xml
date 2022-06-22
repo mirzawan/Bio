@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Mirza Hadzic</string>
+    <string name="my_bio">
+        Hello! My name is Mirza! \n
+        I am an Engineer in computer science and information technologies, photographer for past ten years and a gamer since I can remember.
+        My first contact with video games was in 1989, a year when I got Atari. Yup, that was over 30 years ago.
+        Later on, I got my Sega Master System and Super Nintendo, and those games I still play today and I will stream them here.
+        But it was 1997 when I was introduced to PC gaming and addicted ever since. Everyone is welcome here, and do enjoy my streams.\n\n
+        NOTE:\n
+        As for the chat rules goes, do not insult anyone different than you and we will be ok!\n
+        When I reach Affiliate status, I will begin my MONTHLY GIVEAWAYS . That will include new game in digital copy every month for someone to get for free.
+        All you have to do is follow me, watch my streams, chat with me and help me reach affiliate status.
+    </string>
+    <string name="hobby_hint_text">Enter your hobbies</string>
+    <string name="add_hobby_button">Add Hobby</string>
+    <string name="image_description">Android Image</string>
+</resources>
